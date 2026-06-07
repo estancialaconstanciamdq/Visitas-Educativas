@@ -136,7 +136,7 @@ main,
 
   background-repeat: no-repeat;
 
-  overflow: hidden;
+  overflow: visible;
 }
 
 /* Overlay */
@@ -150,8 +150,8 @@ main,
 
   align-items: center;
   justify-content: center;
-
-  padding: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
 }
 
 /* Hero Content */
@@ -169,10 +169,11 @@ main,
 
 
 .hero-content {
-  min-height: 60vh;
+  min-height: auto;
+  padding: 4rem 1rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 
@@ -209,16 +210,12 @@ main,
 }
 
 .hero-subtitle {
-
-  margin-top: 2rem;
-
-  font-size: 0.9rem;
-
-  letter-spacing: 0.18em;
-
-  text-transform: uppercase;
-
-  color: rgba(255,255,255,0.78);
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.4;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-logo {
@@ -760,4 +757,8 @@ li {
   filter: drop-shadow(0 4px 10px rgba(0,0,0,0.35));
 
   opacity: 0.96;
+}
+
+.navbar {
+  display: none !important;
 }
