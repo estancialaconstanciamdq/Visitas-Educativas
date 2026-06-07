@@ -740,3 +740,14 @@ li {
   }
 
 }
+
+.hero-logo {
+  width: 250px;
+
+  margin-top: 3rem;      /* move down */
+  margin-bottom: 2rem;
+
+  filter: drop-shadow(0 4px 10px rgba(0,0,0,0.35));
+
+  opacity: 0.96;
+}

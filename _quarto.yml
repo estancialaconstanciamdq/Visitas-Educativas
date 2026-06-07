@@ -52,7 +52,7 @@ website:
     logo: logo_la_constancia.svg
 
     left:
-      - text: "Inicio"
+      - text: " "
         href: index.qmd
 
 format:
