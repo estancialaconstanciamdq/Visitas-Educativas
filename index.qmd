@@ -111,31 +111,27 @@ Descarga los programas tentativos:
 
 ## El Arboretum
 
-<!-- ::: {.map-section} -->
-
-<!-- ![](mapa-jardines.jpg){.garden-map} -->
-
 El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local.
 
-<!-- ::: -->
----
 
 ## Información General
 
-<!-- ::: {.callout-note appearance="minimal"} -->
+### 🌿 Visitas Educativas
 
-Las visitas deben coordinarse previamente para garantizar la organización logística y la calidad de la experiencia educativa.
+- Las visitas educativas se realizan únicamente con **reserva previa**, con el fin de garantizar una adecuada organización logística y la mejor experiencia para cada grupo.
+- Al momento de la coordinación se establecerán **dos fechas**: una principal y una alternativa por lluvia.
+- La reserva se efectúa con el **pago de la seña correspondiente**.
+- Nuestro equipo se pondrá en contacto para coordinar objetivos y organización.
 
-<!-- ::: -->
+### 🌳 Cómo solicitar una visita
 
-### Cómo solicitar una visita
+- Enviar solicitud de reserva  
+- Coordinación de objetivos pedagógicos  
+- Confirmación de fecha y grupo  
+- Desarrollo de la visita guiada
 
-1. Enviar solicitud de reserva  
-2. Coordinación de objetivos pedagógicos  
-3. Confirmación de fecha y grupo  
-4. Desarrollo de la visita guiada en el arboretum  
 
-<br>
+<!-- <br> -->
 
 ::: {.cta-container}
 <a href="https://forms.gle/a7vfNhF14bQMZkiw5" target="_blank" class="cta-button">
