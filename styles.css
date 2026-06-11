@@ -770,3 +770,8 @@ li {
 .visitas h3 {
    font-family: 'Cormorant Garamond', serif;
 }
+
+.justificado {
+  text-align: justify;
+  text-justify: inter-word;
+}
