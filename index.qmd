@@ -40,7 +40,7 @@ A través de recorridos guiados, actividades prácticas y observación ecológic
 
 ::: {.panel-tabset}
 
-### 🌿 Recorrido Botánico Guiado
+### 🌿 Recorrido Educativo
 
 - Los alumnos reconocen hierbas, arbustos y árboles, en un entorno único y seguro con programas diseñados por nivel y tema.
 
@@ -120,26 +120,48 @@ Cada recorrido se adapta al nivel educativo y a los objetivos pedagógicos de la
 Las visitas combinan caminatas guiadas, observación científica, juegos educativos, trabajo en equipo y espacios de reflexión, promoviendo la curiosidad, el pensamiento crítico y el vínculo con la naturaleza.
 
 
+<!-- Descarga el brochure: -->
 
-<!-- <a href="https://TU-LINK-PRIMARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Primaria -->
-<!-- </a> -->
+<!-- <div class="button-group"> -->
 
-<!-- <a href="https://TU-LINK-SECUNDARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Secundaria -->
-<!-- </a> -->
-Descarga los programas tentativos:
+<!--   <a href="https://drive.google.com/file/d/14D3vhpElerGzZ7zvj4Bl9eC0NmbUTvj6/view?usp=drive_link"> -->
+<!--     Brochure Visitas Educativas -->
+<!--   </a> -->
 
+
+<!-- </div> -->
+
+<!-- Descarga los programas tentativos: -->
+
+<!-- <div class="button-group"> -->
+
+<!--   <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing"> -->
+<!--     Programa Primaria -->
+<!--   </a> -->
+
+<!--   <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" class="program-button"> -->
+<!--     Programa Secundaria -->
+<!--   </a> -->
+
+<!-- </div> -->
+
+<!-- Sección Brochure -->
+<p class="download-label"><strong>Descarga el brochure completo:</strong></p>
 <div class="button-group">
-
-  <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing">
-    Programa Primaria
+  <a href="https://drive.google.com/file/d/14D3vhpElerGzZ7zvj4Bl9eC0NmbUTvj6/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="btn-download">
+    📂 Brochure Visitas Educativas
   </a>
+</div>
 
-  <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" class="program-button">
-    Programa Secundaria
+<!-- Sección Programas -->
+<p class="download-label"><strong>Descarga los programas tentativos:</strong></p>
+<div class="button-group">
+  <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="btn-download">
+    🎒 Programa Primaria
   </a>
-
+  <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="btn-download">
+    🔬 Programa Secundaria
+  </a>
 </div>
 
 
